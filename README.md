@@ -5,7 +5,7 @@ ICT student at the University of Turku
 
 * 🌍  I'm based in Turku, Finland
 * ✉️  You can contact me at [aajjal@utu.fi](mailto:aajjal@utu.fi)
-* 🔍  Currently pursuing a degree in Information and Communication Technology with a minor in Artificial intelligence.
+* 🔍  Currently pursuing a masters degree in Information and Communication Technology.
 * 🧠 Right now getting better at different programming technologies and languages.
 
 ## 💻 Skills
