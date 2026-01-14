@@ -6,9 +6,9 @@ ICT student at the University of Turku
 * 🌍  Based in Turku, Finland
 * ✉️  You can contact me at [aajjal@utu.fi](mailto:aajjal@utu.fi)
 * 🔍  Currently pursuing a masters degree in ICT majoring in Data-analytics. Minor in game development.
-* 🧠 Right now getting better at programming, data-analytics, developlemnt and different related technologies.
+* 🧠 Right now getting better at programming, data-analytics, development and different related technologies.
 
-## 💻 Skills
+## 💻 Skills and technologies
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -17,7 +17,8 @@ ICT student at the University of Turku
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/godot/godot-original-wordmark.svg" alt="godot" width="40" height="40"/> </a>
   </p>
 
 ## Languages and techniques of choice
