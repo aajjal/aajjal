@@ -3,10 +3,10 @@ Hello there![](https://user-images.githubusercontent.com/18350557/176309783-0785
 ICT student at the University of Turku
 --------------------------------------
 
-* 🌍  I'm based in Turku, Finland
+* 🌍  Based in Turku, Finland
 * ✉️  You can contact me at [aajjal@utu.fi](mailto:aajjal@utu.fi)
-* 🔍  Currently pursuing a masters degree in Information and Communication Technology.
-* 🧠 Right now getting better at different programming technologies and languages.
+* 🔍  Currently pursuing a masters degree in ICT majoring in Data-analytics. Minor in game development.
+* 🧠 Right now getting better at programming, data-analytics, developlemnt and different related technologies.
 
 ## 💻 Skills
 
@@ -28,7 +28,3 @@ ICT student at the University of Turku
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
-  
-## 🚀 Let's Connect!
-  * Account under construction...
-  * LinkedIn coming sometime in the future.
