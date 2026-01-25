@@ -8,7 +8,7 @@ ICT student at the University of Turku
 * 🔍  Currently pursuing a masters degree in ICT majoring in Data-analytics. Minor in game development.
 * 🧠 Right now getting better at programming, data-analytics, development and different related technologies.
 
-## 💻 Skills and technologies
+## 💻 Some technologies used during studies
 
 <p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
@@ -28,13 +28,10 @@ ICT student at the University of Turku
 </p>
 
           
-## Preferred languages and techniques
+## Preferred language
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
 * Currently no personal ongoing projects to show here. Only contributions to schoolwork.
