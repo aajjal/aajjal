@@ -37,4 +37,4 @@ ICT student at the University of Turku
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-* Currently no own ongoing projects to show here.
+* Currently no personal ongoing projects to show here. Only contributions to schoolwork.
